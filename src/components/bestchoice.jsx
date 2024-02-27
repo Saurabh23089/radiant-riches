@@ -23,9 +23,9 @@ const Bestchoice = () => {
                         </div>
 
                         <div className='mt-4 mx-4 '>
-                            <p className=' text-[12px] text-black font-normal'><p className='font-bold'>WixPro 72-Inch Responsive Website Builder -</p> Comprehensive Digital Platform Creation Tool, Streamlined Design Interface for Professional Websites and Online Stores (Black/Blue)</p>
+                            <p className=' lg:text-[12px] text-[6px] text-black font-normal'><p className='font-bold'>WixPro 72-Inch Responsive Website Builder -</p> Comprehensive Digital Platform Creation Tool, Streamlined Design Interface for Professional Websites and Online Stores (Black/Blue)</p>
                             <p className='font-bold text-[12px]'>Main Highlights</p>
-                            <p className='  font-normal text-[12px] mt-1 text-[#4b5665]'>[What You Get]: Receive the WixPro website builder suite, access to premium design templates, an extensive library of widgets and apps, and detailed step-by-step guides.</p>
+                            <p className='  font-normal lg:text-[12px] text-[6px] mt-1 text-[#4b5665]'>[What You Get]: Receive the WixPro website builder suite, access to premium design templates, an extensive library of widgets and apps, and detailed step-by-step guides.</p>
                             <p className='flex flex-row gap-2 mt-2'>
                                 <p className='text-[12px] text-[#1b88f4]'>Show more</p>
                                 <img src={dropdownicon} alt="dropdownicon.jpg" className='h-5 w-5' />
@@ -33,11 +33,11 @@ const Bestchoice = () => {
                         </div>
 
                         <div className='lg:w-full w-3/6   flex-col items-center justify-end lg:mx-4 mx-auto   '>
-                            <div className='flex text-[#074786] flex-col w-5/6  items-center justify-center bg-[#f3f9ff] border rounded-md border-[#ffffff] text-center h-1/2 px-4'>
+                            <div className='flex text-[#074786] flex-col w-full  items-center justify-center bg-[#f3f9ff] border rounded-md border-[#ffffff] text-center h-1/2 px-4'>
                                 <img src={itag} alt="itag" className='relative top-2 left-4 w-2 h-2' />
                                 <p className='text-[32px] px-4'>9.8</p>
                                 <p className='text-[14px]'>Exceptional</p>
-                                <p className='mb-2'>⭐⭐⭐⭐4/5</p>
+                                <p className='mb-2 text-[10px]'>⭐⭐⭐⭐4/5</p>
                             </div>
                             <button className=' mt-12 mx-auto relative ml-2 h-12 lg:px-24 sm:px-12 px-4  sm:ml-6 lg:ml-0  rounded-xl text-[#ffffff] bg-[#1b88f4] mb-12 lg:mb-0  '>View</button>
                         </div>
@@ -58,9 +58,9 @@ const Bestchoice = () => {
                         </div>
 
                         <div className='mt-4 mx-4 '>
-                            <p className=' text-[12px] text-black font-normal'><p className='font-bold'>SiteCraft 68-Inch Ultimate Web Design Studio -</p> Advanced Site Creation Toolkit, Intuitive Drag-and-Drop Editor for Dynamic Websites and E-commerce Platforms (Green/White)</p>
+                            <p className=' lg:text-[12px] text-[6px] text-black font-normal'><p className='font-bold'>SiteCraft 68-Inch Ultimate Web Design Studio -</p> Advanced Site Creation Toolkit, Intuitive Drag-and-Drop Editor for Dynamic Websites and E-commerce Platforms (Green/White)</p>
                             <p className='font-bold text-[12px]'>Main Highlights</p>
-                            <p className='  font-normal text-[12px] mt-1 text-[#4b5665]'>[What You Get]: Gain access to the SiteCraft design studio, featuring a robust selection of design elements, SEO optimization tools, and e-commerce integrations.</p>
+                            <p className='  font-normal lg:text-[12px] text-[6px] mt-1 text-[#4b5665]'>[What You Get]: Gain access to the SiteCraft design studio, featuring a robust selection of design elements, SEO optimization tools, and e-commerce integrations.</p>
                             <p className='flex flex-row gap-2 mt-2'>
                                 <p className='text-[12px] text-[#1b88f4]'>Show more</p>
                                 <img src={dropdownicon} alt="dropdownicon.jpg" className='h-5 w-5' />
@@ -72,7 +72,7 @@ const Bestchoice = () => {
                                 <img src={itag} alt="itag" className='relative top-2 left-4 w-2 h-2' />
                                 <p className='text-[32px] px-4'>9.5</p>
                                 <p className='text-[14px]'>Exceptional</p>
-                                <p className='mb-2'>⭐⭐⭐⭐1/2</p>
+                                <p className='mb-2 text-[10px]'>⭐⭐⭐⭐1/2</p>
 
                             </div>
                             <button className=' mt-12 mx-auto relative ml-2 h-12 lg:px-24 sm:px-12 px-4  sm:ml-6 lg:ml-0  rounded-xl text-[#ffffff] bg-[#1b88f4] mb-12 lg:mb-0  '>View</button>
@@ -92,9 +92,9 @@ const Bestchoice = () => {
                         </div>
 
                         <div className='mt-4 mx-4 '>
-                            <p className=' text-[12px] text-black font-normal'><p className='font-bold'>WixPro 72-Inch Responsive Website Builder -</p> Comprehensive Digital Platform Creation Tool, Streamlined Design Interface for Professional Websites and Online Stores (Black/Blue)</p>
+                            <p className=' lg:text-[12px] text-[6px] text-black font-normal'><p className='font-bold'>WixPro 72-Inch Responsive Website Builder -</p> Comprehensive Digital Platform Creation Tool, Streamlined Design Interface for Professional Websites and Online Stores (Black/Blue)</p>
                             <p className='font-bold text-[12px]'>Main Highlights</p>
-                            <p className='  font-normal text-[12px] mt-1 text-[#4b5665]'>[What You Get]: Receive the WixPro website builder suite, access to premium design templates, an extensive library of widgets and apps, and detailed step-by-step guides.</p>
+                            <p className='  font-normal lg:text-[12px] text-[6px] mt-1 text-[#4b5665]'>[What You Get]: Receive the WixPro website builder suite, access to premium design templates, an extensive library of widgets and apps, and detailed step-by-step guides.</p>
                             <p className='flex flex-row gap-2 mt-2'>
                                 <p className='text-[12px] text-[#1b88f4]'>Show more</p>
                                 <img src={dropdownicon} alt="dropdownicon.jpg" className='h-5 w-5' />
@@ -106,7 +106,7 @@ const Bestchoice = () => {
                                 <img src={itag} alt="itag" className='relative top-2 left-4 w-2 h-2' />
                                 <p className='text-[32px] px-4'>9.3</p>
                                 <p className='text-[14px]'>Exceptional</p>
-                                <p className='mb-2'>⭐⭐⭐⭐1/3</p>
+                                <p className='mb-2 text-[10px]'>⭐⭐⭐⭐1/3</p>
                             </div>
                             <button className=' mt-12 mx-auto relative ml-2 h-12 lg:px-24 sm:px-12 px-4  sm:ml-6 lg:ml-0  rounded-xl text-[#ffffff] bg-[#1b88f4] mb-12 lg:mb-0  '>View</button>
                         </div>
@@ -125,25 +125,25 @@ const Bestchoice = () => {
                         </div>
 
                         <div className='mt-4 mx-4 w-full '>
-                            <p className=' text-[12px] text-black font-normal'><p className='font-bold'>CDK Response Builder - </p>An extensive library of widgets and apps, and detailed step-by-step guides</p>
+                            <p className=' lg:text-[12px] text-[8px] text-black font-normal'><p className='font-bold'>CDK Response Builder - </p>An extensive library of widgets and apps, and detailed step-by-step guides</p>
                             <p className='text-[#074726] text-[13px] p-1 '>26% Off</p>
                             <p className='font-bold text-[12px]'>Main Highlights</p>
                             <p className='  font-normal text-[12px] mt-1'>
                                 <div className='flex flex-col bg-[#fff4ed] py-4 px-4 rounded-md w-full gap-2'>
 
-                                    <div className='flex flex-row gap-2'>
-                                        <p className='text-[#1b88f4] bg-[#ffffff] px-2'>9.1</p>
+                                    <div className='flex flex-row text-[8px] gap-2'>
+                                        <p className='text-[#1b88f4]  bg-[#ffffff] px-2'>9.1</p>
                                         <div>Building Responsive</div>
                                     </div>
 
 
-                                    <div className='flex flex-row gap-2'>
+                                    <div className='flex flex-row gap-2 text-[8px]'>
                                         <div className='text-[#1b88f4] bg-[#ffffff] px-2'>8.9</div>
                                         <div>Cool</div>
 
                                     </div>
 
-                                    <div className='flex flex-row gap-2'>
+                                    <div className='flex flex-row gap-2 text-[8px]'>
                                         <div className='text-[#1b88f4] bg-[#ffffff] px-2'>8.9</div>
                                         <div>Docs</div>
 
@@ -153,7 +153,7 @@ const Bestchoice = () => {
                                 </div>
                             </p>
 
-                            <p className='flex flex-col gap-1 text-[16px]'>Why we love it
+                            <p className='flex flex-col gap-1 text-[6px] lg:text-[10px]'>Why we love it
                                 <div className='flex flex-row gap-2'>
                                     <img src={tick} alt="tick" />
                                     <p className='text-[15px]'>Documentation</p>
@@ -182,7 +182,7 @@ const Bestchoice = () => {
                                 <img src={itag} alt="itag" className='relative top-2 left-4 w-2 h-2' />
                                 <p className='text-[32px] px-4'>9.1</p>
                                 <p className='text-[14px]'>Very Good</p>
-                                <p className='mb-2'>⭐⭐⭐⭐1/10</p>
+                                <p className='mb-2 text-[10px]'>⭐⭐⭐⭐1/10</p>
                             </div>
                             <div className=''>
                                 <button className=' mt-12 mx-auto relative ml-2 h-12 lg:px-24 sm:px-12 px-4  sm:ml-6 lg:ml-0  rounded-xl text-[#ffffff] bg-[#1b88f4] mb-12 lg:mb-0  '>View</button>

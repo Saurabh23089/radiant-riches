@@ -5,7 +5,7 @@ const Deals = () => {
         <div className="flex flex-col  gap-8  my-8 items-center select-none  ">
             
             <div className='flex flex-row relative text-[red] w-4/6 text-center text-[#2c384a] '>
-                <p className='text-center'>
+                <p className='text-center text-[#2c384a]'>
                     Realted Deals you might like for
                 </p>
             </div>
